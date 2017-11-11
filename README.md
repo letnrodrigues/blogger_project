@@ -1,24 +1,6 @@
-# README
+Project: Ruby on Rails basics
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+by Letícia Rodrigues
 
-Things you may want to cover:
+This is a project proposed by The Odin Project web development course. You can find the details of the project on this link: https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails?ref=lnav
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
